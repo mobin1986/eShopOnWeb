@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: d05ce4f4-2221-4702-ba8d-5ecd3d93602c
-  WEBAPP-NAME: az400-webapp-arhaam1
+  WEBAPP-NAME: az400-webapp-arhaam
 
 jobs:
   #Build, test and publish .net web project in repository
